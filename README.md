@@ -30,10 +30,7 @@ This application will manage the following entities:
 
 * Department number
 * Department name
-
-### Department Manager
-* Employee number(key from Employee.emp_num)
-* Department number(key from Department.dpt_num)
+* Department Manager (an employee)
 
 ## API Endpoints
 
